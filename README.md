@@ -16,6 +16,8 @@ This project is a Convolutional Neural Network (CNN) based digit recognizer buil
 - numpy
 - matplotlib
 - pillow
+- tk
+- ipykernel
 
 Install all dependencies with: pip install -r requirements.txt
 
