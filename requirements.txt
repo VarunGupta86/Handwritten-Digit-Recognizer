@@ -1,0 +1,7 @@
+numpy
+matplotlib
+opencv-python
+tensorflow
+tk
+ipykernel
+Pillow
