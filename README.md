@@ -19,7 +19,10 @@ This project is a Convolutional Neural Network (CNN) based digit recognizer buil
 - tk
 - ipykernel
 
-Install all dependencies with: pip install -r requirements.txt
+Install all dependencies with:
+```
+pip install -r requirements.txt
+```
 
 ## How to Run
 
