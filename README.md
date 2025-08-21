@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 3. **Run the notebook/script:**
     - Open `Handwritten Digit Recognizer.ipynb` in Jupyter Notebook/Google Colab or click the link to view it in colab:[Click Here 👆](https://colab.research.google.com/drive/1DNnk9IyRta9K9pcw5lELfE4mqu1wI2RT?usp=sharing)
-    - If using a `.py` script, run: `main.py` in your IDE.
+    - If using the `.py` script, run: `main.py` in your IDE.
 
 ---
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## Output & Results
 
-- Achieved accuracy: ~98% on MNIST test data
+- Achieved accuracy: >98% on MNIST test data
 - Example predictions included in results
 
 ## Presentation
