@@ -2,13 +2,12 @@
 
 This project is a Convolutional Neural Network (CNN) based digit recognizer built with TensorFlow and trained on the MNIST dataset.
 
----
 
 ## Project Overview
 
 This project aims to build a system that accurately classifies handwritten digits from images. The model is trained on the popular MNIST dataset and is capable of predicting digits from both standard test set images and custom input images provided by users.
 
----
+
 
 ## Features
 
